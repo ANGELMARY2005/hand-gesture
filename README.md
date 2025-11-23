@@ -3,7 +3,7 @@ GestureFlow - Hand Gesture Video Controller
 A revolutionary web application that enables touchless video control using hand gestures. Control your media playback, scrolling, and zooming with intuitive hand movements - no mouse, keyboard, or touchscreen required!
 
 🎬 Live Demo
-Try GestureFlow Now! 
+Try GestureFlow Now! https://angelmary2005.github.io/hand-gesture/
 
 ✨ Features
 🎯 Gesture Controls
